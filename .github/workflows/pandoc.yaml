@@ -30,6 +30,7 @@ jobs:
             -N
             --toc
             --toc-depth=3
+            -f gfm
             -F pandoc-crossref
             -H listing.tex
             --listings
