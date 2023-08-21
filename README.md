@@ -14,7 +14,7 @@ Actions > build pandoc container > Run workflow に移動してRun workflowを�
 
 ### PDFをビルド
 
-`Chapter`プレフィックスのファイルをコミットすると自動でビルドされる。ビルドされたPDFは Actions > pandoc > 実行されたジョブを開くとArtifactsの欄にアップロードされている。
+`Chapter`プレフィックスのファイルをコミットすると自動でPDFがビルドされる。ビルドされたPDFは Actions > pandoc > 実行されたジョブを開くとArtifactsの欄にアップロードされている。
 
 ## Markdownの書き方
 
