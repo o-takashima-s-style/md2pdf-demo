@@ -4,6 +4,7 @@ on:
   push:
     paths:
       - Chapter*.md
+      - listing.tex
       - .github/workflows/pandoc.yaml
 
 jobs:
