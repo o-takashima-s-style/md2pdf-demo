@@ -1,6 +1,7 @@
 name: pandoc
 
 on:
+  workflow_dispatch:
   push:
     paths:
       - Chapter*.md
